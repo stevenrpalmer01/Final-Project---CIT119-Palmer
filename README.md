@@ -1,3 +1,7 @@
+Steven Palmer
+CIT-119
+Final Project
+
 Description: 
 This final project is simulating the card game UNO.  
 
